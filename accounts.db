@@ -1,0 +1,2 @@
+{"username":"admin","password":"password123","email":"testuser@example.com","role":"admin","_id":"rtCnExK2kcoccPIP"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
